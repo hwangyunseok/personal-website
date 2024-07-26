@@ -10,7 +10,7 @@ const About = () => {
                 </p>
             </div>
             <p className="text-xl mt-20">
-            Hi 👋 My name is Yunseok Hwang from Apex, North Carolina and I’m a second-year Computer Science student at the <b>University of North Carolina at Chapel Hill</b>. My interest in programming started back in high school after watching a Korean Drama, Start-Up. 
+            Hi 👋 My name is Yunseok Hwang from Raleigh, North Carolina and I’m a third-year Computer Science and Statistics student at the <b>University of North Carolina at Chapel Hill</b>. My interest in programming started back in high school after watching a Korean Drama, Start-Up. 
             The main character used coding to develop an app that acted as eyes for the usually impaired. Watching this, I was inspired by the power of technology to transform lives and solve real-world problems, ultimately sparking my curiosity for programming. I became interested in learning more about other areas such as Web Development, 3D Modeling, Visual Design, and Machine Learning.
             Fast forward to today, I've leveraged my passion for technology to work on impactful projects that blend my interests in web development, visual design, and machine learning.
             </p>
