@@ -17,7 +17,7 @@ const Home = () => {
                     I'm a Software Engineer
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
-                I am an aspiring Software Engineer with a strong background in software development and a keen interest in artificial intelligence and machine learning.
+                I am an aspiring Software Engineer with a strong background in software development and great interest in artificial intelligence and machine learning.
                 My experience includes frontend development and visual design, with a career focus on full-stack development and leveraging AI to create innovative solutions.
                 </p>
 
