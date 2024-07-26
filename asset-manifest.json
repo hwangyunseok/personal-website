@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-tailwindcss-website/static/css/main.266db22e.css",
+    "main.js": "/react-tailwindcss-website/static/js/main.8bd63519.js",
+    "static/media/worldcup.png": "/react-tailwindcss-website/static/media/worldcup.ad184c6f7a6b33c0e8f8.png",
+    "static/media/heroIcon.jpg": "/react-tailwindcss-website/static/media/heroIcon.4dfbad5b6c05cb117983.jpg",
+    "static/media/Vogro.png": "/react-tailwindcss-website/static/media/Vogro.afba45155f9b65c9e9cd.png",
+    "static/media/python.jpg": "/react-tailwindcss-website/static/media/python.b86abef39c2f591b9b90.jpg",
+    "static/media/react.png": "/react-tailwindcss-website/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/c.png": "/react-tailwindcss-website/static/media/c.bf0af88d24cd724c83bc.png",
+    "static/media/node.png": "/react-tailwindcss-website/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/java.png": "/react-tailwindcss-website/static/media/java.fe3e26f939cc1c400680.png",
+    "static/media/twenty.png": "/react-tailwindcss-website/static/media/twenty.ef495f50b48dbd9396f3.png",
+    "static/media/nextjs.png": "/react-tailwindcss-website/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/react-tailwindcss-website/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/dart.png": "/react-tailwindcss-website/static/media/dart.f00251a3d3eee7148f7a.png",
+    "static/media/html.png": "/react-tailwindcss-website/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/flutter.png": "/react-tailwindcss-website/static/media/flutter.d522d8ca531e77debd54.png",
+    "static/media/tailwind.png": "/react-tailwindcss-website/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/react-tailwindcss-website/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/react-tailwindcss-website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-tailwindcss-website/index.html",
+    "main.266db22e.css.map": "/react-tailwindcss-website/static/css/main.266db22e.css.map",
+    "main.8bd63519.js.map": "/react-tailwindcss-website/static/js/main.8bd63519.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.266db22e.css",
+    "static/js/main.8bd63519.js"
+  ]
+}
